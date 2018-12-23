@@ -3,7 +3,7 @@ title = "Academic: the website designer for Hugo"
 
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ['潘峰']
@@ -16,36 +16,6 @@ image = "headers/getting-started.png"
 # 图片右下角的标题
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 
-# gallery 用来存放外部图片链接库，可以展现很多图片
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
-caption = "Default"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png"
-caption = "Ocean"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
-caption = "Dark"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png"
-caption = "Default"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
-caption = "1950s"
 +++
 
 **Academic** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
@@ -66,7 +36,6 @@ Key features:
 
 Academic is available in different color themes and font themes.
 
-{{< gallery >}}
 
 ## Install
 
